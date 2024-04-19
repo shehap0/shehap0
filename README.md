@@ -8,7 +8,7 @@
 
 #### - A software engeneering student at during the day and web Developer at night ☾
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.ai`
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.ai`
   
 
 
