@@ -6,9 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-#### - A software engeneering student at during the day and web Developer at night ☾
+#### - A software engeneering student during the day and web Developer at night ☾
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.c++`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.c++` ,`.codeforces`
   
 
 
