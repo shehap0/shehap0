@@ -8,7 +8,7 @@
 
 #### - A software engeneering student ☾
 
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.c++` ,`.codeforces`
+- ⚙️ I use daily: `.js`, `.c++` , `.java`, `.python`, `.html`, `.css`,
   
 
 
@@ -16,7 +16,7 @@
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</f2> 
   
-- 👨‍💻 JavaScript ,c++ ,html 
+- 👨‍💻 JavaScript ,C++ ,java ,python ,html 
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
